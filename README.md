@@ -5,7 +5,7 @@ Hello Everyone!
 -HTML5/CSS3<br>
 -JAVA<br>
 -GOLANG<br>
--PYTHON
+-PYTHON<br>
 -SQL/PLSQL<br>
 -VUE.js/JAVASCRIPT</p>
 
